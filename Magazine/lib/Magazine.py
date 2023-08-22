@@ -19,8 +19,8 @@ class Magazine :
     
     
 magazine = Magazine ("Gossip Girl", "Entertainment") 
-magazine.name = "Vogue"
-magazine.category = "Fashion"
+magazine.name = "Forbes"
+magazine.category = "Business"
 print(magazine.name) 
 print(magazine.category)
 print(magazine.all())
