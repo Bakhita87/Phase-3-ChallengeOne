@@ -8,7 +8,7 @@ def main():
     author = Author("Bakhita")
     print(author.name())
 
-    magazine = Magazine("Vogue", "Fashion")
+    magazine = Magazine("Forbes", "Business")
     print(magazine.name())
     print(magazine.category())
 
